@@ -1,2 +1,2 @@
 # covidSmartApp
-C# Windows Forms App with helpful applications for the lockdown during the COVID-19 pandemic.
+C# Windows Forms App which can be helpful for a wide variety of users during the COVID-19 lockdown.
